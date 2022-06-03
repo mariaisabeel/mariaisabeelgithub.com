@@ -1,21 +1,21 @@
 # cmi22
 
-## (Nombre del proyecto)
+## (Cocinita con Anita)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**COCINITA CON ANITA** : MI Proyecto(Cocinita con Anita)
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  (María Isabel Rodríguez Jiménez)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto esta basado en los juegos de cocinita de internet, que buscan la interacción de los usurios donde aprendan a cocinar de forma sencilla y se diviertan. Durante mi infancia, siempre al jugar con el ordenador, me llamaban mucho la atención este tipo de videojuegos ya que tenían los platos bastante realistas para ser un simple juego, así que quise adaptarlo con mis propios dibujos del personaje Anita.  
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Videojuego interactivo
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
