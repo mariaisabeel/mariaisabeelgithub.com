@@ -17,28 +17,26 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Videojuego interactivo
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** :  
 
 ![cocinita con anita](https://user-images.githubusercontent.com/106830515/172401635-c70d74cd-04cb-498c-84d3-9a28d964d1a5.png)
 
+Hice un logotico con el título del videojuego y está colocado en diferentes escenas.
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 600x400px responsivo/o tamaño fijo 
+**Probado en:**  Google Chrome 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 59,4 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 09/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:
-- Twitter
-- Instagram
+
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -47,22 +45,33 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+![storyboard y esquema de navegación 1](https://user-images.githubusercontent.com/106830515/172408510-931c14d4-5f77-41a3-af84-c411629742bd.jpg)
+![storyboard y esquema de navegación 2](https://user-images.githubusercontent.com/106830515/172408534-b68e58ba-94fe-4d2c-a852-95098d33ebc4.jpg)
+![storyboard y esquema de navegación 3](https://user-images.githubusercontent.com/106830515/172408559-bc0c155b-d51a-4d68-b93f-b54a1d450783.jpg)
+![storyboard y esquema de navegación 4](https://user-images.githubusercontent.com/106830515/172408576-0cba44ef-f0c9-42b7-9ed5-3f94de6c585d.jpg)
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Sobre la primera viñeta, se trata de la introducción siguiendo con el menú y el desarrollo del juego.
 
 
 
 ### 2.2. Esquema de navegación 
 
+PORTADA
 
+![portada](https://user-images.githubusercontent.com/106830515/172412767-51f42622-97fa-4247-a267-e033eaa78955.jpg)
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+MENU
 
+![MENU](https://user-images.githubusercontent.com/106830515/172412817-33ed58b0-c5fd-4ce7-a44b-1b131009738e.jpg)
 
+CONFIGURACIÓN
 
+![CONFIGURACIÓN](https://user-images.githubusercontent.com/106830515/172412896-63111f9d-e5e3-4d6c-addb-853fcf4c4a81.jpg)
 
+CRÉDITOS
 
+![CRÉDITOS](https://user-images.githubusercontent.com/106830515/172413031-130393be-5410-4acb-8868-c385c6207e0f.jpg)
 
 
 # 3. Metodología
@@ -75,20 +84,17 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque te enseña a cocinar de una manera divertida y sencilla.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todo tipo de público. 
 
 
 
