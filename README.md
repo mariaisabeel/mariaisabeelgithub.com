@@ -19,6 +19,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
+![cocinita con anita](https://user-images.githubusercontent.com/106830515/172401635-c70d74cd-04cb-498c-84d3-9a28d964d1a5.png)
+
+
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
