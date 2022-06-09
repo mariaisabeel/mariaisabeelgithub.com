@@ -95,6 +95,7 @@ Este  proyecto es interesante porque te enseña a cocinar de una manera divertid
 **Publico / audiencia**
 
 - Orientado a todo tipo de público. 
+- sobretodo para niños pequeños que quieran divertirse y pasar el rato.
 
 
 
@@ -120,13 +121,7 @@ Este  proyecto es interesante porque te enseña a cocinar de una manera divertid
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
-
+Siento que mi vieojuego ha quedado bastante bien ya que es la primera vez que he utilizado este tipo de programa. Aunque es un poco complicado programar, he podido solucionar algunos de los problemas que se me han ido apareciendo a lo largo de la creación del videojuego. Lo que más me ha gustado ha sido el poder crear mis propias caricaturas e integrarlas en él.
 
 # 5 Referencias 
 
@@ -136,9 +131,9 @@ Este  proyecto es interesante porque te enseña a cocinar de una manera divertid
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: BTS- DYNAMITE; BTS- BOY WITH LUV; BTS- BUTTER
+* Imágenes:  BTS DYNAMITE
+* Tipografía: ÉSTANDAR- ARIAL
 
 **Herramientas utilizadas**
 
