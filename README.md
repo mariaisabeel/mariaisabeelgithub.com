@@ -23,6 +23,20 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Hice un logotico con el título del videojuego y está colocado en diferentes escenas.
 
+![1651242749837](https://user-images.githubusercontent.com/106830515/173027376-494e0b97-8792-4689-8f1a-b0d9c629a599.png)
+
+![1651242749886](https://user-images.githubusercontent.com/106830515/173027397-a37be11f-12c1-4327-8ebe-13b6f97895ec.png)
+![1651248556108](https://user-images.githubusercontent.com/106830515/173027436-aa9960e1-5a00-4fec-9a45-d7d713f4fa40.png)
+![1651930483960](https://user-images.githubusercontent.com/106830515/173027455-d95cad66-1fad-4f80-af5c-ffcae3266a18.png)
+![1651930483938](https://user-images.githubusercontent.com/106830515/173027469-b3271a96-f20d-45da-941a-c992c12de09c.png)
+![1651930483983](https://user-images.githubusercontent.com/106830515/173027476-5ac3fe8e-d2ac-4e9a-a4c0-7f6c9cf27700.png)
+![Uploading 1651930![anita animo](https://user-images.githubusercontent.com/106830515/173027502-56936ebf-47f0-47eb-ada7-28e4f7f6ba13.png)
+484006.png…]()
+![1651930484150](https://user-images.githubusercontent.com/106830515/173027519-03b0637e-1118-4f99-befb-54edd52ebf61.png)
+
+![anita sonrojada](https://user-images.githubusercontent.com/106830515/173027541-5ec558c7-ee50-4142-abb6-b1fdf7d07bff.png)
+
+Hice diversos diseños de Anita.
 
 **Resolución:** 600x400px responsivo/o tamaño fijo 
 **Probado en:**  Google Chrome 
@@ -81,6 +95,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
+Para dicho proyecto, me he inspirado en los videojuegos online de cocinitas y tiene referencia de Cooking Mama, que es un juego de cocinar que solía jugar cuando era pequeña.
+
 
 
 **Motivación de la propuesta** 
@@ -102,17 +118,19 @@ Este  proyecto es interesante porque te enseña a cocinar de una manera divertid
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego. Mirando diferentes tipos de recetas y adaptándolo a mi videojuego.
+- Video Como lleva integrado música de bts, he querido poner un video musical sobre ellos. 
+- Instrucciones y ayuda al usuario : Es fácil de usar ya que se para la pantalla hasta que el usuario ordene una acción. 
+- Menús y elementos de navegación (botones): El menú está integrado por jugar, recetas y créditos. 
+
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Creo que esta versión del videojuego no está acabada, pero uno de los problemas fue la memoria insuficiente del propio programa que no me permitía exportar bien el videojuego y tampoco seguir integrando diferentes imágenes o botones.
+Es por eso que siento que no ha quedado completo pero estoy satisfecha por el resultado final.
+
 
 
 
@@ -143,4 +161,4 @@ Siento que mi vieojuego ha quedado bastante bien ya que es la primera vez que he
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+JUNIO 2022
